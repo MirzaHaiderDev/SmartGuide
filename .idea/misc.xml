@@ -1,0 +1,32 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.2735" />
+        <entry key="app/src/main/res/drawable/buttondesign.xml" value="0.2735" />
+        <entry key="app/src/main/res/drawable/edittextdesign.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/filled_circle.xml" value="0.2735" />
+        <entry key="app/src/main/res/drawable/ic_filter_list_black_24dp.xml" value="0.2735" />
+        <entry key="app/src/main/res/drawable/login_bg.xml" value="0.2735" />
+        <entry key="app/src/main/res/drawable/login_button_background.xml" value="0.2735" />
+        <entry key="app/src/main/res/drawable/search_bg.xml" value="0.2715" />
+        <entry key="app/src/main/res/layout/activity_bahawalpur.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_checkweather.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_city_menu.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_currencyconverter.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_hotels.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_islamabad.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_lahore.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_multan.xml" value="0.15" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/activity_sialkot.xml" value="0.2448478900883219" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/cutome_design.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/layout/item_my_apps.xml" value="0.2598958333333333" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>

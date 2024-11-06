@@ -1,0 +1,56 @@
+<resources>
+
+     <string name="app_name">Smart Tour Guidance</string>
+     <string name="about_appVal">This application helps users for planning travel, accommodation , shoping, meals and many more things. You can know everything about your destination city like historical places, restaurants, hotels and mosques.\nKeep traveling with Smart Tour Guidance \nMake your Journies happier than destination</string>
+     <string name="citiesTitle">Cities</string>
+
+    <string name="lahore">Lahore</string>
+    <string name="check_weatherTitle">Check Weather</string>
+    <string name="airportsTitle">Airports</string>
+    <string name="historical_placesTitle">Historical Places</string>
+    <string name="mosquesTitle">Mosques</string>
+    <string name="hospitalsTitle">Hospitals</string>
+    <string name="restaurantsTitle">Restaurants</string>
+    <string name="book_flightTitle">Book Flight</string>
+    <string name="book_rideTitle">Book Ride</string>
+    <string name="searchTitle">Search</string>
+
+    <string name="islamabad">Islamabad</string>
+    <string name="sialkot">Sialkot</string>
+    <string name="bahawalpur">Bahawalpur</string>
+    <string name="multan">Multan</string>
+
+    <string name="exploreTitle">Explore</string>
+    <string name="profileTitle">Profile</string>
+    <string name="near_meTitle">Near me</string>
+    <string name="extrasTitle">Extras</string>
+    <string name="hotelsTitle">Hotels</string>
+    <string name="shopping_mallsTitle">Shopping Malls</string>
+    <string name="userTitle">User</string>
+    <string name="about_applicationTitle">About Application</string>
+    <string name="app_versionTitle">App Version</string>
+    <string name="change_languageTitle">Change Language</string>
+    <string name="logoutTitle">Logout</string>
+
+    <string name="about_cityTitle">About City</string>
+
+    <string name="about_islamabadVal">Islamabad is the capital city of Pakistan, and is administered by the Pakistani federal government as part of the Islamabad Capital Territory. It is the ninth largest city in Pakistan, while the larger Islamabad Rawalpindi metropolitan area is the country+"'"+s third largest with a population of about 4.1 million people.</string>
+    <string name="about_lahoreVal">Lahore is the city of wonders with a rich history of over a millennium. Lahore the 2nd largest city of Pakistan and is capital of province Punjab. Lahore is referred to as cultural heart of Pakistan as it hosts most of the arts, cuisine, festivals, music, film-making, gardening and intelligentsia of the country.</string>
+    <string name="about_sialkotVal">Sialkot is a city in Punjab, Pakistan. It is the capital city of Sialkot District. It is Pakistans 13th most populous city and is located in north-east Punjab-one of Pakistans most industrialised regions. Wikipedia Sialkot is known for manufacturing and export of many items such as surgical instruments, musical instruments, sports goods, leather goods, textile goods etc. Sialkot is the second largest source of foreign exchange earnings for Pakistan because of its exports and remittances from overseas manpower.</string>
+    <string name="about_bahwalpurVal">Bahawalpur, is a city located in the Punjab province of Pakistan. Bahawalpur is the 11th largest city in Pakistan by population as per a 2017 census, with a population of 762,111. Founded in 1748, Bahawalpur was the capital of the former princely state of Bahawalpur, ruled by the Abbasi family of Nawabs until 1955. Wikipedia Bahawalpur is famous for its carpets, embroidery and pottery. The Punjab government has given notice to such amazing hand work and has set up a Craft Development Centre from where handicrafts can be purchased. These handicrafts are mostly manufactured in the Cholistan area.</string>
+    <string name="about_multanVal">Multan is the 7th largest city of Pakistan, known for its historical places and beautiful architecture. Due to an abundance of tombs in the city, Multan is also known as the +"'"+city of saints+"'"+ among the masses. Some historians suggest that Multan is around 2000 years old and it has been a center for Sufi activities. This fact makes the city even more interesting. If you are interested in exploring different architectural designs in Pakistan and have a knack for history, Multan is the perfect place for you to be. To ensure good construction and designing make sure you hire the right architects. Here, in this blog, we bring you a concise yet very informative list of places to visit in Multan.</string>
+    <string name="washroomsTitle">Washrooms</string>
+
+    <string name="toTitle">To</string>
+    <string name="convertTitle">Convert</string>
+    <string name="currency_converterTitle">Currency Converter</string>
+    <string name="fromTitle">From</string>
+    <string name="enter_amountTitle">Enter Amount</string>
+    <string name="parking">Parking</string>
+    <string name="fuel_stations">Fuel Stations</string>
+    <string name="marts">Marts</string>
+    <string name="park">Park</string>
+    <string name="atm">ATM</string>
+
+
+</resources>

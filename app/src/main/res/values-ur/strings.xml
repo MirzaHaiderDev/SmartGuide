@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Urdu test</string>
+    <string name="about_appVal">Tاس کی ایپلی کیشن صارفین کو سفر، رہائش، خریداری، کھانے اور بہت سی چیزوں کی منصوبہ بندی کرنے میں مدد کرتی ہے۔ آپ اپنی منزل کے شہر جیسے تاریخی مقامات، ریستوراں، ہوٹل اور مساجد کے بارے میں سب کچھ جان سکتے ہیں۔\nسمارٹ ٹور گائیڈنس کے ساتھ سفر کرتے رہیں \nاپنے سفر کو منزل سے زیادہ خوشگوار بنائیں</string>
+    <string name="citiesTitle">شہر</string>
+
+
+    <string name="check_weatherTitle">موسم کی جانچ کریں۔</string>
+    <string name="airportsTitle">ہوائی اڈے</string>
+    <string name="historical_placesTitle">تاریخی مقامات</string>
+    <string name="mosquesTitle">مساجد</string>
+    <string name="hospitalsTitle">ہسپتال</string>
+    <string name="restaurantsTitle">ریستوراں</string>
+    <string name="book_flightTitle">بک فلائٹ</string>
+    <string name="book_rideTitle">بک رائڈ</string>
+    <string name="searchTitle">تلاش کریں۔</string>
+
+    <string name="islamabad">اسلام آباد</string>
+    <string name="lahore">لاہور</string>
+    <string name="sialkot">سیالکوٹ</string>
+    <string name="bahawalpur">بہاولپور</string>
+    <string name="multan">ملتان</string>
+
+    <string name="exploreTitle">دریافت کریں۔</string>
+    <string name="profileTitle">پروفائل</string>
+    <string name="near_meTitle">میرے قریب</string>
+    <string name="extrasTitle">اضافی</string>
+
+    <string name="hotelsTitle">ہوٹل</string>
+    <string name="shopping_mallsTitle">شاپنگ مالز</string>
+    <string name="userTitle">صارف</string>
+    <string name="about_applicationTitle">درخواست کے بارے میں</string>
+    <string name="app_versionTitle">ایپ ورژن</string>
+    <string name="change_languageTitle">زبان تبدیل کریں</string>
+    <string name="logoutTitle">لاگ آوٹ</string>
+    <string name="washroomsTitle">غسل خانہ</string>
+
+    <string name="about_cityTitle">شہر کے بارے میں</string>
+
+    <string name="about_islamabadVal">اسلام آباد پاکستان کا دارالحکومت ہے، اور اسلام آباد کیپٹل ٹیریٹری کے حصے کے طور پر پاکستانی وفاقی حکومت کے زیر انتظام ہے۔ یہ پاکستان کا نواں بڑا شہر ہے، جبکہ اسلام آباد راولپنڈی میٹروپولیٹن کا بڑا علاقہ تقریباً 4.1 ملین افراد کی آبادی کے ساتھ ملک کا تیسرا بڑا شہر ہے۔</string>
+    <string name="about_lahoreVal">لاہور عجائبات کا شہر ہے جس کی ایک ہزار سال سے زیادہ کی تاریخ ہے۔ لاہور پاکستان کا دوسرا بڑا شہر اور صوبہ پنجاب کا دارالحکومت ہے۔ لاہور کو پاکستان کا ثقافتی مرکز کہا جاتا ہے کیونکہ یہ ملک کے بیشتر فنون، پکوان، تہوار، موسیقی، فلم سازی، باغبانی اور دانشوروں کی میزبانی کرتا ہے۔</string>
+    <string name="about_sialkotVal">سیالکوٹ پنجاب، پاکستان کا ایک شہر ہے۔ یہ ضلع سیالکوٹ کا دارالحکومت ہے۔ یہ پاکستان کا 13 واں سب سے زیادہ آبادی والا شہر ہے اور شمال مشرقی پنجاب میں واقع ہے - پاکستان کے سب سے زیادہ صنعتی علاقوں میں سے ایک۔ Wikipedia سیالکوٹ بہت سی اشیاء کی تیاری اور برآمد کے لیے جانا جاتا ہے جیسے کہ آلات جراحی، موسیقی کے آلات، کھیلوں کے سامان، چمڑے کے سامان، ٹیکسٹائل کے سامان وغیرہ۔ سیالکوٹ پاکستان کے لیے زرمبادلہ کمانے کا دوسرا بڑا ذریعہ ہے کیونکہ اس کی برآمدات اور بیرون ملک افرادی قوت سے ترسیلات زر کی جاتی ہیں۔</string>
+    <string name="about_bahwalpurVal">بہاولپور، پاکستان کے صوبہ پنجاب میں واقع ایک شہر ہے۔ بہاولپور 2017 کی مردم شماری کے مطابق آبادی کے لحاظ سے پاکستان کا 11 واں بڑا شہر ہے، جس کی آبادی 762,111 ہے۔ 1748 میں قائم کیا گیا، بہاولپور سابقہ ​​ریاست بہاولپور کا دارالحکومت تھا، جس پر 1955 تک نوابوں کے عباسی خاندان کی حکومت تھی۔ Wikipedia بہاولپور اپنے قالینوں، کڑھائی اور مٹی کے برتنوں کے لیے مشہور ہے۔ پنجاب حکومت نے ایسے حیرت انگیز ہینڈ ورک کو نوٹس دیتے ہوئے کرافٹ ڈویلپمنٹ سنٹر قائم کیا ہے جہاں سے دستکاری خریدی جا سکتی ہے۔ یہ دستکاری زیادہ تر چولستان کے علاقے میں تیار کی جاتی ہیں۔</string>
+    <string name="about_multanVal">ملتان پاکستان کا ساتواں بڑا شہر ہے جو اپنے تاریخی مقامات اور خوبصورت فن تعمیر کے لیے جانا جاتا ہے۔ شہر میں مقبروں کی کثرت کی وجہ سے، ملتان کو عوام میں +"'"+ولیوں کا شہر+"'"+ بھی کہا جاتا ہے۔ کچھ مورخین کا خیال ہے کہ ملتان تقریباً 2000 سال پرانا ہے اور یہ صوفی سرگرمیوں کا مرکز رہا ہے۔ یہ حقیقت شہر کو مزید دلچسپ بنا دیتی ہے۔ اگر آپ پاکستان میں مختلف آرکیٹیکچرل ڈیزائنوں کو تلاش کرنے میں دلچسپی رکھتے ہیں اور تاریخ میں مہارت رکھتے ہیں، تو ملتان آپ کے لیے بہترین جگہ ہے۔ اچھی تعمیر اور ڈیزائننگ کو یقینی بنانے کے لیے یہ یقینی بنائیں کہ آپ صحیح معمار کی خدمات حاصل کرتے ہیں۔ یہاں، اس بلاگ میں، ہم آپ کے لیے ملتان میں سیر کے لیے جگہوں کی ایک مختصر لیکن انتہائی معلوماتی فہرست لاتے ہیں۔</string>
+
+    <string name="toTitle">کو</string>
+    <string name="convertTitle">تبدیل کریں</string>
+    <string name="currency_converterTitle">کرنسی کنورٹر</string>
+    <string name="fromTitle">سے</string>
+    <string name="enter_amountTitle">رقم درج کریں۔</string>
+
+
+    <string name="parking">پارکنگ</string>
+    <string name="fuel_stations">فیول اسٹیشنز</string>
+    <string name="marts">مارٹس</string>
+    <string name="park">پارک</string>
+    <string name="atm">اے ٹی ایم</string>
+</resources>
